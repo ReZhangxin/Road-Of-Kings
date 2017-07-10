@@ -6,7 +6,7 @@
 # RK1 Html+CSS
 > * [语义化Html](https://en.wikipedia.org/wiki/Semantic_HTML)<br>
 > * [BFC特性](http://www.cnblogs.com/xiaohuochai/p/5248536.html)
-> * 
+> * [学习资源](https://developer.mozilla.org/zh-CN/)
 > * 
 
 # RK2 JavaScript
