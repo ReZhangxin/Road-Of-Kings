@@ -4,3 +4,5 @@
  7月11到9月11javascript<br>
  9月11到11月11 前端框架React.js vue.js 前端模块化<br>
  11月11到1月11 node.js
+# 7月11日
+> 学习[javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#other.timeouts)
