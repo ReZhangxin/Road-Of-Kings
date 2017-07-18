@@ -12,7 +12,7 @@
 # RK2 JavaScript
 > * [JavaScript学习目录](http://www.cnblogs.com/xiaohuochai/p/5613593.html)
 > * [Fundebug](https://blog.fundebug.com/)
-> * 
+> * [你不知道的JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 
 # RK3 Node.js
 
