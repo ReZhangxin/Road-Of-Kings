@@ -14,7 +14,7 @@
 > * [Fundebug](https://blog.fundebug.com/)
 > * [你不知道的JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 > * [Javascript系统学习](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-> * [javascript电子书](http://fullstack.kongyixueyuan.com/)
+> * 
 # RK3 Node.js
 
 
