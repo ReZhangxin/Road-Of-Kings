@@ -8,7 +8,7 @@
 > * [BFC特性](http://www.cnblogs.com/xiaohuochai/p/5248536.html)
 > * [学习资源](https://developer.mozilla.org/zh-CN/)
 > * [自定义滚动条](http://blog.csdn.net/u013347241/article/details/51560290)
-> * 
+> * [css设计](http://www.instantshift.com/)
 
 # RK2 JavaScript
 > * [JavaScript学习目录](http://www.cnblogs.com/xiaohuochai/p/5613593.html)
