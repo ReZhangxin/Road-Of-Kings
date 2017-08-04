@@ -16,6 +16,7 @@
 > * [你不知道的JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 > * [Javascript系统学习](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 > * [学习js社区](https://medium.com/)
+> * [JavaScript30天挑战](https://liyuechun.gitbooks.io/js30/content/)
 > * 
 
 # RK3 Node.js
