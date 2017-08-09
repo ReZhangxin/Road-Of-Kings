@@ -17,6 +17,7 @@
 > * [Javascript系统学习](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 > * [学习js社区](https://medium.com/)
 > * [JavaScript30天挑战](https://liyuechun.gitbooks.io/js30/content/)
+> * [js牛人博客](http://2ality.com/)
 > * 
 
 # RK3 Node.js
